@@ -1,0 +1,21 @@
+{
+  "name": "myapp",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "week 1 of backend-dev UCI",
+  "main": "index.js",
+  "scripts": {
+    "log": "node index.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "week",
+    "1"
+  ],
+  "author": "Khoa Nguyen",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
+  }
+}
